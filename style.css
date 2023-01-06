@@ -1,0 +1,23 @@
+#video{
+width:100%;
+height: 500px;
+border: none;
+}
+.Campus_mainDiv img {
+    width:100%;
+    height: 500px;
+    border: none;
+}
+.nav 
+ {
+ position: sticky;
+ top: 0;
+ z-index: 100000000000;
+ background-color:darkgray);
+}
+head {
+    background-color:darkgray);
+}
+body {
+    background-color:darkgray);
+}
